@@ -1,41 +1,16 @@
-# ☕ Aner Cafe - Mobile Ordering App
+# uts_aiysaaner_220087
 
-**Aner Cafe App** is a cross-platform mobile application built with **Flutter** to streamline the online food and beverage ordering process for Aner Cafe customers. It provides an intuitive interface for browsing menus, managing shopping carts, submitting orders, and tracking order progress in real-time.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🌟 Key Features
+This project is a starting point for a Flutter application.
 
-- **Interactive Menu Catalog:** Browse through categorized food and beverage options complete with photos, descriptions, and pricing.
-- **Shopping Cart Management:** Add, adjust quantities, or remove items seamlessly prior to checkout.
-- **Seamless Checkout:** Simplified order submission and payment processing.
-- **Real-Time Order Tracking:** Monitor order progress with live status updates (e.g., *Order Received ➔ Preparing ➔ Ready for Pick-up/Delivery*).
-- **Order History:** View past orders and detailed transaction receipts.
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 📱 Screenshots
-*(Add your app screenshots or previews here)*
-
----
-
-## 🛠️ Tech Stack
-
-- **Framework:** Flutter (Dart)
-- **State Management:** Provider / BLoC / GetX *(Adjust based on your project)*
-- **Tools & IDE:** VS Code / Android Studio
-
----
-
-## 🚀 How to Run Locally
-
-### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed
-- VS Code or Android Studio with Flutter plugin
-- An active Android/iOS emulator or physical device
-
-### Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/aiysaaner9/aner-cafe-app.git](https://github.com/aiysaaner9/aner-cafe-app.git)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
