@@ -14,11 +14,6 @@
 
 ---
 
-## 📱 Screenshots
-*(Add your app screenshots or previews here)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Framework:** Flutter (Dart)
